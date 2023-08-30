@@ -1,0 +1,179 @@
+{
+  "tracks": [
+    {
+      "id": 3,
+      "title": "Uptown Funk",
+      "duration": 270,
+      "artist": "Mark Ronson ft. Bruno Mars",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyoWhKYthhZtcilipNlIFMeoGmMt4rrTFQZfmX41XXqTeHlDmhGIexeFUXUxO_ZfWrrAg&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "title": "Thinking Out Loud",
+      "duration": 281,
+      "artist": "Ed Sheeran",
+      "img": "https://cadena100-cdnmed.agilecontent.com/resources/jpg/7/0/1680195575107.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Despacito",
+      "duration": 228,
+      "artist": "Luis Fonsi ft. Daddy Yankee",
+      "img": "https://ichef.bbci.co.uk/news/640/cpsprodpb/6D4A/production/_96987972_695750ae-43c7-409b-8296-fb8ae871eda6.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Old Town Road",
+      "duration": 157,
+      "artist": "Lil Nas X ft. Billy Ray Cyrus",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXO5EltmyJlmVZNsaOf7oSMBR9-vuIC7BZ-jY1Ewvwbv4_DkcIcLGI8yTef_S2H5CGsTE&usqp=CAU"
+    },
+    {
+      "id": 7,
+      "title": "Shape of My Heart",
+      "duration": 268,
+      "artist": "Sting",
+      "img": "https://es.rollingstone.com/wp-content/uploads/2022/02/Sting-vende-el-catalogo-de-sus-composiciones-en-un-estimado-de-250-millones-de-dolares.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Someone Like You",
+      "duration": 285,
+      "artist": "Adele",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu6J69WrOKf4w-dZ_DCMORWRVThZ_hz5JX-g&usqp=CAU"
+    },
+    {
+      "title": "Billie Jean",
+      "duration": 293,
+      "artist": "Michael Jackson",
+      "img": "https://cdn.smehost.net/michaeljacksoncom-uslegacyprod/wp-content/uploads/2020/09/20Sept29_BillieJean_900px.jpg",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "title": "Rolling in the Deep",
+      "duration": 228,
+      "artist": "Adele",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu6J69WrOKf4w-dZ_DCMORWRVThZ_hz5JX-g&usqp=CAU"
+    },
+    {
+      "id": 11,
+      "title": "Happy",
+      "duration": 233,
+      "artist": "Pharrell Williams",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsix4L0dvU-WVYAIXcZ8b1eRghyEYwSXE9zRyHKGV4LDPyw3UMtvBdgqs_wCRnu3hDx1Y&usqp=CAU"
+    },
+    {
+      "id": 12,
+      "title": "Can't Stop the Feeling!",
+      "duration": 236,
+      "artist": "Justin Timberlake",
+      "img": "https://pxccdn.ciudadano.news/ciudadano/072021/1626400876640/Justin-Timberlake-01.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Shape of You",
+      "duration": 235,
+      "artist": "Ed Sheeran",
+      "img": "https://cadena100-cdnmed.agilecontent.com/resources/jpg/7/0/1680195575107.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Rolling in the Deep",
+      "duration": 228,
+      "artist": "Adele",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu6J69WrOKf4w-dZ_DCMORWRVThZ_hz5JX-g&usqp=CAU"
+    },
+    {
+      "id": 15,
+      "title": "Radioactive",
+      "duration": 187,
+      "artist": "Imagine Dragons",
+      "img": "https://cloudfront-us-east-1.images.arcpublishing.com/artear/WOFM6MQOYRBQVFM437JHHR4FMA.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Bohemian Rhapsody",
+      "duration": 355,
+      "artist": "Queen",
+      "img": "https://cnnespanol.cnn.com/wp-content/uploads/2023/05/230528132653-queen-band-1973-file.webp"
+    },
+    {
+      "id": 17,
+      "title": "Stairway to Heaven",
+      "duration": 482,
+      "artist": "Led Zeppelin",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY5cS0ZxH7HPfI9TPRiGjsJ6EWgAWendjOZXDCzeuCGwJ24Hm0HjAi8YLtnZcXSV8Q6Po&usqp=CAU"
+    },
+    {
+      "id": 18,
+      "title": "Imagine",
+      "duration": 183,
+      "artist": "John Lennon",
+      "img": "https://album.mediaset.es/eimg/10000/2021/07/28/clipping_40n7Tq_ded9.jpg?w=1200"
+    },
+    {
+      "id": 19,
+      "title": "Hotel California",
+      "duration": 390,
+      "artist": "Eagles",
+      "img": "https://ichef.bbci.co.uk/news/640/amz/worldservice/live/assets/images/2016/01/19/160119033413_el_ltimo_homenaje_programado_para_the_eagles_tuvo_que_suspenderse_por_la_salud_de_frey_624x351_getty_nocredit.jpg"
+    },
+    {
+      "id": 21,
+      "title": "arrancamelo",
+      "duration": 2.58,
+      "artist": "wos",
+      "img": "https://i0.wp.com/elplanetaurbano.com/wp-content/uploads/2023/06/0.-apertura-web-Tapa-WOS.jpg?resize=1250%2C781&ssl=1"
+    },
+    {
+      "title": "Blinding Lights",
+      "duration": 207,
+      "artist": "The Weeknd",
+      "img": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2021/11/mejor-cancion-Billboard-Foto-Archivo.jpg",
+      "id": 22
+    },
+    {
+      "id": 23,
+      "title": "Fuck the police",
+      "duration": 258,
+      "artist": "Trueno",
+      "img": "https://img2.rtve.es/i/?w=1600&i=1642686968036.jpg"
+    },
+    {
+      "title": "pepito",
+      "artist": "las",
+      "duration": "2156",
+      "img": "https://www.nationalgeographic.com.es/medio/2020/03/04/elefante-en-el-parque-nacional-de-amboseli-con-el-kilimanjaro-al-fondo_4308fa58_800x800.jpg",
+      "id": 24
+    },
+    {
+      "title": "adfqwef",
+      "artist": "feafasd",
+      "duration": "122546",
+      "img": "https://www.nationalgeographic.com.es/medio/2020/03/04/elefante-en-el-parque-nacional-de-amboseli-con-el-kilimanjaro-al-fondo_4308fa58_800x800.jpg\",",
+      "id": 25
+    },
+    {
+      "id": 26,
+      "title": "Shape of You",
+      "duration": 235,
+      "artist": "Ed Sheeran",
+      "img": "https://cadena100-cdnmed.agilecontent.com/resources/jpg/7/0/1680195575107.jpg"
+    },
+    {
+      "title": "Mamichula",
+      "duration": 270,
+      "artist": "Trueno",
+      "img": "https://img2.rtve.es/i/?w=1600&i=1642686968036.jpg",
+      "id": 27
+    },
+    {
+      "title": "Blinding Lights",
+      "duration": 207,
+      "artist": "The Weeknd",
+      "img": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2021/11/mejor-cancion-Billboard-Foto-Archivo.jpg",
+      "id": 28
+    }
+  ]
+}
